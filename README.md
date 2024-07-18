@@ -43,3 +43,6 @@ else >
 
 <img src="./Screenshot 2024-07-18 at 13.40.28.png" alt="Alt text" title="links" width="600px">
 
+### Different output
+
+<img src="./Screenshot 2024-07-18 at 15.18.11.png" alt="Alt text" title="links" width="600px">
